@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
+import Routes from './views/routes.jsx';
+import './assets/scss/main.scss';
 
 class App extends Component {
    render() { 
-       return <h1>Hello Voters</h1>;
+       return <Routes />;
    }
 }
 

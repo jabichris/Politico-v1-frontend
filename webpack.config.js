@@ -8,7 +8,7 @@ module.exports = {
   devServer: { 
     contentBase: path.join(__dirname, "src"),
     historyApiFallback: true,
-    port:process.env.PORT || 3002 },
+    port:process.env.PORT || 5000 },
   module: {
     rules: [
       {
