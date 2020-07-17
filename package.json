@@ -64,7 +64,7 @@
     "is-promise": "^2.1.0",
     "joi-browser": "^13.4.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
     "moxios": "^0.4.0",
